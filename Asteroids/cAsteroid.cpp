@@ -6,7 +6,7 @@ cAsteroid.cpp
 */
 #include "cAsteroid.h"
 #include "cGame.h"
-
+// A new comment
 /*
 =================================================================
 Defualt Constructor
